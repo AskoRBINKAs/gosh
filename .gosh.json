@@ -1,0 +1,8 @@
+{
+    "UserColors":{
+        "UsernameColor":"cyan",
+        "HostnameColor":"purple",
+        "PwdColor":"yellow",
+        "InputColor":"white"
+    }
+}
